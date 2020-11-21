@@ -16,7 +16,7 @@ Project aanchal is a emotional recognition web app that maps the emotional profi
 _________
 
 #### Built with
-<a href="https://ibb.co/mNHSZ2K"><img src="https://i.ibb.co/2Zj5VCr/Frame-7.png" alt="Frame-7" border="0"></a>
+<a href="https://ibb.co/mNHSZ2K"><img src="https://64.media.tumblr.com/3215b78ac121bc7e7feb97157717e261/61dc20b9823d1647-bb/s1280x1920/22607021913a0c712cfa7eaff1e3e2d2b796c013.png" alt="Frame-7" border="0"></a>
 * Azure 
 * OpenCV 
 * AdobeXD 
