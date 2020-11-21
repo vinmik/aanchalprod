@@ -38,12 +38,14 @@ ____
 ________
 ##### Statistical Analysis
 
-*Leading mental health problems of the older adults are depression, organic brain syndromes and dementias which are more prevalent in women.
-An estimated 80% of 50 million people affected by violent conflicts, civil wars, disasters, and displacement are women 
-Lifetime prevalence rate of violence against women is as high as 50%.
-At least one in five women suffer rape or attempted rape in their lifetime.
-*93% rural areas do not have pshyciatric clinic
-*rest of data\\\\\\\\
+* Leading mental health problems of the older adults are depression, organic brain syndromes and dementias which are more prevalent in women.
+* An estimated 80% of 50 million people affected by violent conflicts, civil wars, disasters, and displacement are women Lifetime prevalence rate of violence against women is as high as 50%.
+* At least one in five women suffer rape or attempted rape in their lifetime.
+* 
+* 
+* 
+* 
+* 
 
 <a href="https://ibb.co/kqwWCbF"><img src="https://i.ibb.co/r5z1r8J/image-13.png" alt="image-13" border="0"></a>
 ________
