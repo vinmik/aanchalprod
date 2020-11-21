@@ -3,11 +3,11 @@
 ### Table of Contents
 * About the Product
 	* Built With
-	* Research 
+	* Technical details 
   * Statistical analysis
 * Business Model
   * Target Audience.
-  * Branding
+  * links for our self help pages
 * Video
 __________
 #### About the Product
