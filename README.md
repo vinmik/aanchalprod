@@ -11,31 +11,39 @@
 * Video
 __________
 #### About the Product
-<a href="https://ibb.co/PDwgHyL"><img src="https://i.ibb.co/41PprLq/Frame-6.png" alt="Frame-6" border="0" widith="2500"></a>
+Project aanchal is a emotional recognition web app that maps the emotional profile of the user and helps in diagnosis of potential cases of depression and mental disorder.it also provides help by suggesting relevant articles for self help and improving mood.
+
 _________
 
 #### Built with
 <a href="https://ibb.co/mNHSZ2K"><img src="https://i.ibb.co/2Zj5VCr/Frame-7.png" alt="Frame-7" border="0"></a>
+Azure 
+OpenCV 
+AdobeXD 
+Anima 
+JavaScript
+Python 
+HTML 
+CSS
+
 ____
-#### Research
+#### Aanchal technical detail
 
-Alzheimer's disease is one of those diseases which hasn’t seen any cure since the past 100 years , scientist havent found a cure till now the only means to do something which will bring a significant change in community is by providing some aid . The main reason people suffer from alzheimer’s disease is that as we grow old the blood flow to our brain is reduced and hence the blood cells do not recieve ample amount of blood and due to this blood cells start decaying and rupturing our brain cells and hence there it affects the folds of our brain and due to that the memory retention capacity is decreased and therefore we might even stop remembering things which we did this morning 
+(how this project is working)
 
-##### Our Source
+##### (Place holder)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gzZ21sP/image-12.png" alt="image-12" border="0"></a>
 
 ________
 ##### Statistical Analysis
 
-* One in 10 people throughout the world will develop dementia at some point in their life
-* 6th leading cause of deaths in United States.
-* Almost two-thirds of Americans with Alzheimer's are women.
-* People in poor communities are twice as likely to develop Alzheimers than their rich counterparts
-* It has been known for 110+ years but there is still no cure for it.
-* 1 in 3 Seniors dies with Alzheimer’s or another dementia. It kills more than Breast Cancer and Prostrate cancer combined.
-* These caregivers provided an estimated 18.6 Billion hours of care valued at nearly $244 Billion Worldwide. For comparison, the Indian domestic pharmaceutical industry is worth 	approximately $20 Billion in 2020
-* A new case is diagnosed every 70 seconds
+*Leading mental health problems of the older adults are depression, organic brain syndromes and dementias which are more prevalent in women.
+An estimated 80% of 50 million people affected by violent conflicts, civil wars, disasters, and displacement are women 
+Lifetime prevalence rate of violence against women is as high as 50%.
+At least one in five women suffer rape or attempted rape in their lifetime.
+*93% rural areas do not have pshyciatric clinic
+*rest of data\\\\\\\\
 
 <a href="https://ibb.co/kqwWCbF"><img src="https://i.ibb.co/r5z1r8J/image-13.png" alt="image-13" border="0"></a>
 ________
@@ -49,16 +57,17 @@ _________
 #### Target Audience
 * Women.
 * People in poor communities 
-* Majority of the audience are senior citizens ,and with getting old comes eye issues there for our main focus are the senior citizens
-* or any person suffering from alzheimer’s disease
+* teenagers
+* rural area population
+* illiterate population
 ________
 
-#### Link for Raspberry pie typescript API
+#### Links for our self help pages
 [Click here to view the API](https://github.com/sudo-vaibhav/smriti-rpi-api)
 ________
-#### Video Submission
+#### (Place holder)
 
-Here is a video about our product. Please click on the image to view the video.
+
 
 [![Smriti](https://i.ibb.co/41PprLq/Frame-6.png)](https://youtu.be/3DI4dbW0epc "Smriti")
 ______
