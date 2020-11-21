@@ -17,14 +17,14 @@ _________
 
 #### Built with
 <a href="https://ibb.co/mNHSZ2K"><img src="https://i.ibb.co/2Zj5VCr/Frame-7.png" alt="Frame-7" border="0"></a>
-Azure 
-OpenCV 
-AdobeXD 
-Anima 
-JavaScript
-Python 
-HTML 
-CSS
+*Azure 
+*OpenCV 
+*AdobeXD 
+*Anima 
+*JavaScript
+*Python 
+*HTML 
+*CSS
 
 ____
 #### Aanchal technical detail
