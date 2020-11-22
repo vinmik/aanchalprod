@@ -51,7 +51,7 @@ ________
 ________
 #### Business model
 
-As the alzheimer’s disease is one of those diseases where more than $ 244 billion is spent every year for talking care of theese patients and the amount of time spent is 18.6 billion hrs which is more than the gdp of our country and the fact that providing aid to such a multi billion dollar industry  would not only benefit it the customers but even would help us produce a large amount of cash flow which can be actually implemented for further goals and this might sound very fancy and inspiring but there is something which will actually blow your mind cause you might think that buying such a product will be too expensive but trust us when we say that the actuall cost for building the product is as low as $ 30 to $ 50 and as an extra passive income our idea is to have ola or uber as our affiliated partner , so everytime someone books a cab from our app,we get affiliated money from our partner.This not only gives us a passive income but also helps our customer to stand on his own feet   
+we have developed this web app as a healthcare application, it offers complete privacy,accesibility,empathy,portability, and is lightweight as well as easy to use to have outreach among rural population, through this webapp user can take take self asessment by clicking thier picture 
 
 
 _________
